@@ -12,3 +12,4 @@ C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\refint\Ejercicio1.dll
 C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.pdb
 C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.genruntimeconfig.cache
 C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\ref\Ejercicio1.dll
+C:\ESTRUCTURA_DATOS\Ejercicio1\obj\Debug\net9.0\Ejercicio1.sourcelink.json
